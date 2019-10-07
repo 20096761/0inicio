@@ -1,6 +1,9 @@
 # 0inicio
 crear un repositorio
 
+## Activitats
+* [1LlocWeb](https://arquesm.github.io/2GP/)
+
 ## Páginas clase
 * [Clase 2GP](https://arquesm.github.io/2GP) 
 * [Lenguaje etiquetas GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
