@@ -3,6 +3,8 @@ crear un repositorio
 
 ## Activitats
 * [1LlocWeb](https://arquesm.github.io/2GP/)
+* [2CMYK](https://20096761.github.io/cmyk/)
+* [3Broom](https://20096761.github.io/3broom/)
 
 ## Páginas clase
 * [Clase 2GP](https://arquesm.github.io/2GP) 
