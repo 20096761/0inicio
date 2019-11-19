@@ -7,7 +7,7 @@ crear un repositorio
 * [3Broom](https://20096761.github.io/3broom/)
 * [4Maquetació](https://20096761.github.io/4_maquetacion/)
 * [7landingpage](https://20096761.github.io/7landingpage/)
-* [8solución landingpage](https://20096761.github.io/8sitioweb/)
+* [8Grid](https://20096761.github.io/8Grid/)
 
 ## Páginas clase
 * [Clase 2GP](https://arquesm.github.io/2GP) 
