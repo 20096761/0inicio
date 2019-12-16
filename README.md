@@ -2,7 +2,7 @@
 crear un repositorio
 
 ## Activitats
-* [1LlocWeb](https://arquesm.github.io/2GP/)
+* [1LlocWeb](https://20096761.github.io/1llocweb/)
 * [2CMYK](https://20096761.github.io/cmyk/)
 * [3Broom](https://20096761.github.io/3broom/)
 * [4Maquetació](https://20096761.github.io/4_maquetacion/)
