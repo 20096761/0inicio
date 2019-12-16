@@ -10,6 +10,7 @@ crear un repositorio
 * [6landingpage](https://20096761.github.io/7landingpage/)
 * [7Grid_moma](https://20096761.github.io/8Grid/)
 * [8gridarea_minminshop](https://20096761.github.io/8Gridarea_minminshop/)
+* [9Dothings](https://20096761.github.io/13_dothings/)
 
 ## Páginas clase
 * [Clase 2GP](https://arquesm.github.io/2GP) 
