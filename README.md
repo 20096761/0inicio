@@ -16,6 +16,7 @@ crear un repositorio
 * [14Java](https://20096761.github.io/14_document_js/)
 * [15Js](https://20096761.github.io/15_js/)
 * [16Portfoli](https://20096761.github.io/16_portfoli/)
+* [17Examen](https://20096761.github.io/17_Examen/)
 
 ## Páginas clase
 * [Clase 2GP](https://arquesm.github.io/2GP) 
